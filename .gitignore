@@ -1,1 +1,17 @@
+.history/
+.venv/
+.vscode/
+**/__py
+
+.DS_Store
+.history
+.ipynb_checkpoints
+.venv
+.vscode
+images
+utils/.env
+__pycache__/
+*.pyc
+*.csv
+*.zip
 /build/script.py
